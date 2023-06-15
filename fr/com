@@ -1,6 +1,6 @@
 {
 	"app": {
-		"title": "SDG 15.3.1: Proportion of land that is degraded over total land area",
+		"title": "SDG 15.3.1 : Proportion de terre dégradée sur la superficie totale des terres",
 		"aoi_drawer": "Aoi selector",
 		"input_drawer": "Parameters",
 		"result_drawer": "Results",
@@ -18,7 +18,7 @@
 	},
 	"trend": {
 		"ndvi": "Productivity (VI) trend",
-		"p_res": "Residual (Osereved VI - Predicetd VI) trend ",
+		"p_res": "Residual (Observed VI - Predicted VI) trend ",
 		"s_res": "Water use efficiency (WUE)",
 		"ue": "Rain use efficiency (RUE)"
 	},
