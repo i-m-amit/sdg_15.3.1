@@ -1,30 +1,30 @@
 {
 	"app": {
-		"title": "SDG 15.3.1: Proportion of land that is degraded over total land area",
-		"aoi_drawer": "Aoi selector",
-		"input_drawer": "Parameters",
-		"result_drawer": "Results",
-		"reclassify_drawer": "Customize LC",
-		"about_drawer": "About"
+		"title": "SDG 15.3.1: Proporción de la tierra que se degrada sobre el área total de la tierra",
+		"aoi_drawer": "Selector AOI",
+		"input_drawer": "Parámetros",
+		"result_drawer": "Resultados",
+		"reclassify_drawer": "Personalizar LC",
+		"about_drawer": "Acerca de"
 	},
 	"classes": {
-		"forest": "Tree-covered areas",
-		"grassland": "Grassland",
-		"cropland": "Cropland",
-		"wetland": "Wetland",
-		"artificial": "Artificial surfaces",
-		"bareland": "Other land",
-		"water": "Water bodies"
+		"forest": "Áreas cubiertas de árboles",
+		"grassland": "Pradera",
+		"cropland": "Cortijo",
+		"wetland": "Humedal",
+		"artificial": "Escamas Artificiales",
+		"bareland": "Otra área edificable",
+		"water": "Masa de agua"
 	},
 	"trend": {
-		"ndvi": "Productivity (VI) trend",
-		"p_res": "Residual (Osereved VI - Predicetd VI) trend ",
-		"s_res": "Water use efficiency (WUE)",
-		"ue": "Rain use efficiency (RUE)"
+		"ndvi": "Tendencia de productividad (VI)",
+		"p_res": "Residual (Observed VI - Predicted VI) trend ",
+		"s_res": "Eficiencia de uso del agua (WUE)",
+		"ue": "Eficiencia de uso del agua (WUE)"
 	},
 	"clim_regim": {
-		"temp_dry": "Temperate dry",
-		"temp_moist": "Temperate moist",
+		"temp_dry": "Tierra Templado",
+		"temp_moist": "Tierra Templado",
 		"trop_dry": "Tropical dry",
 		"trop_moist": "Tropical moist",
 		"trop_mont": "Tropical montain",
