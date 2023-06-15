@@ -18,7 +18,7 @@
 	},
 	"trend": {
 		"ndvi": "Productivity (VI) trend",
-		"p_res": "Residual (Osereved VI - Predicetd VI) trend ",
+		"p_res": "Residual (Observed VI - Predicted VI) trend ",
 		"s_res": "Water use efficiency (WUE)",
 		"ue": "Rain use efficiency (RUE)"
 	},
